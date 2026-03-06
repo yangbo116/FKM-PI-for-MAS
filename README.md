@@ -6,6 +6,15 @@ The repository contains the numerical codes used to evaluate the efficiency of t
 
 The goal of this repository is to ensure the reproducibility of the numerical results reported in the manuscript.
 
+Requirements
+The codes were developed and tested using:
+1、MATLAB R2022a (or later versions)
+
+The implementation uses MATLAB built-in numerical routines, including
+1、decomposition
+2、basic linear algebra solvers
+No additional toolboxes are required.
+
 
 
 
