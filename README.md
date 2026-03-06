@@ -6,7 +6,7 @@ The repository contains the numerical codes used to evaluate the efficiency of t
 
 The goal of this repository is to ensure the reproducibility of the numerical results reported in the manuscript.
 
-Requirements
+Requirements:
 The codes were developed and tested using:
 1、MATLAB R2022a (or later versions)
 
