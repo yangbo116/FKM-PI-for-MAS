@@ -1,4 +1,4 @@
-\bf{FKM_ADI: Fast Krasnosel’skiĭ–Mann Accelerated ADI Method
+FKM_ADI: Fast Krasnosel’skiĭ–Mann Accelerated ADI Method
 
 This repository provides the MATLAB implementation and simulation codes associated with the paper: “An Fast Krasnosel’skiĭ–Mann-Based Policy Iteration Approach for Multi-Agent Control Systems.”
 
