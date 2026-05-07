@@ -23,7 +23,7 @@ The project provides an efficient numerical framework to solve cooperative contr
 ## 💻 Prerequisites
 
 *   **MATLAB**: Developed and tested on **R2021a** or later.
-
+   
 ## 🚀 How to Reproduce the Results
 
 Follow these steps to replicate the numerical simulations:
@@ -47,15 +47,16 @@ To reproduce the numerical results, please follow these steps:
 In the MATLAB file browser, go to the directory:
 FKM_ADI numerical test/
 
-🧪 Select the experiment
+### 🧪 Select the experiment
 Run Example1.m to replicate the results for Example 1.
 Run Example2.m to replicate the results for Example 2.
-💻 Execute the code
+
+### 💻 Execute the code
 You can run the scripts by:
 Typing the filename in the Command Window.
 Or by opening the file and pressing F5.
 
-📧 Contact
+### 📧 Contact
 If you have any questions regarding the code, numerical methods, or the paper, please feel free to:
 Open an Issue: Submit a bug report or a question directly on this GitHub repository.
 Email the Author: Send an email to Yang Bo at bbo_yang@163.com.
