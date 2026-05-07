@@ -31,7 +31,7 @@ Follow these steps to replicate the numerical simulations:
 git clone https://github.com/yangbo116/FKM-PI-for-MAS.git
 cd FKM-PI-for-MAS
 
-2. Set Up MATLAB Path
+### 2. Set Up MATLAB Path
 To ensure that all utility functions in the MASs folder are recognized by MATLAB, you need to add the project folders to your path. Run the following command in the MATLAB Command Window:
 code
 Matlab
