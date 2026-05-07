@@ -20,7 +20,7 @@ The project provides an efficient numerical framework to solve cooperative contr
 ## 💻 Prerequisites
 
 *   **MATLAB**: Developed and tested on **R2021a** or later.
-*   
+  
 ## 🚀 How to Reproduce the Results
 
 Follow these steps to replicate the numerical simulations:
