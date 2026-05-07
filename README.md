@@ -20,8 +20,7 @@ The project provides an efficient numerical framework to solve cooperative contr
 ## 💻 Prerequisites
 
 *   **MATLAB**: Developed and tested on **R2021a** or later.
-*   **Toolboxes**: (Recommended) Control System Toolbox.
-
+*   
 ## 🚀 How to Reproduce the Results
 
 Follow these steps to replicate the numerical simulations:
@@ -31,7 +30,7 @@ Follow these steps to replicate the numerical simulations:
 git clone https://github.com/yangbo116/FKM-PI-for-MAS.git
 cd FKM-PI-for-MAS
 
-3. Run the Simulation
+### 3. Run the Simulation
 
 To reproduce the numerical results presented in the manuscript, please follow these steps:
 
