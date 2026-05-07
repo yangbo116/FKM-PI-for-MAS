@@ -46,10 +46,7 @@ Select the experiment:
 Run Example1.m to replicate the results for Example 1.
 Run Example2.m to replicate the results for Example 2.
 Execute the code: You can run the scripts by typing the filename in the Command Window or by opening the file and pressing F5.
-📊 Expected Output
-Once the script finishes execution:
-Figures: MATLAB will generate plots showing the evolution of the system, error analysis, or convergence orders.
-Data: Numerical results will be displayed in the MATLAB Command Window.
+
 📧 Contact
 If you have any questions regarding the code, numerical methods, or the paper, please feel free to:
 Open an Issue: Submit a bug report or a question directly on this GitHub repository.
