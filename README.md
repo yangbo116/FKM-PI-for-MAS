@@ -1,60 +1,32 @@
-Numerical Simulation of FKM using ADI Method
+# A Fast Krasnosel'skiĭ-Mann-based Policy Iteration (FKM-PI) for Multi-Agent Systems
 
-This repository contains the MATLAB source code for the numerical simulation of An fast Krasnosel'skiĭ-Mann-based policy iteration approach for multi-agent
-cooperative control systems
+[![MATLAB](https://img.shields.io/badge/MATLAB-R2021a%2B-orange.svg)](https://www.mathworks.com/products/matlab.html)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 
-📁 Repository Structure
-FKM_ADI numerical test/: Contains the main numerical experiments, convergence tests, and scripts to generate primary results.
-MASs/: Contains utility functions, solvers, or modules related to Multi-Agent Systems (if applicable) used by the main scripts.
-LICENSE: The legal terms for using this code.
-README.md: This documentation file.
+This repository contains the official MATLAB implementation for the numerical simulations of the paper:  
+**"A fast Krasnosel'skiĭ-Mann-based policy iteration approach for multi-agent cooperative control systems."**
 
-💻 Prerequisites
-MATLAB: Developed and tested on version R2021a or later.
+The project provides an efficient numerical framework to solve cooperative control problems in Multi-Agent Systems (MASs) using an accelerated policy iteration (PI) algorithm based on the Krasnosel'skiĭ-Mann (KM) iteration.
 
-🚀 How to Reproduce the Results
-To replicate the numerical results presented in this project, follow these steps:
-1. Clone the Repository
-code
-Bash
+## 📁 Repository Structure
+
+*   **`FKM_ADI numerical test/`**: Contains the main numerical experiments and scripts to generate the results presented in the manuscript.
+    *   `Example1.m`: Script to reproduce results for Example 1.
+    *   `Example2.m`: Script to reproduce results for Example 2.
+*   **`MASs/`**: A library of utility functions, solvers, and core modules specifically designed for Multi-Agent System dynamics and control.
+*   **`LICENSE`**: MIT License.
+*   **`README.md`**: Project documentation.
+
+## 💻 Prerequisites
+
+*   **MATLAB**: Developed and tested on **R2021a** or later.
+*   **Toolboxes**: (Recommended) Control System Toolbox.
+
+## 🚀 How to Reproduce the Results
+
+Follow these steps to replicate the numerical simulations:
+
+### 1. Clone the Repository
+```bash
 git clone https://github.com/yangbo116/FKM-PI-for-MAS.git
 cd FKM-PI-for-MAS
-
-3. Set Up MATLAB Path
-Open MATLAB and add the project folders to your path to ensure all functions in the MASs folder are recognized:
-code
-Matlab
-
-% Run this in the MATLAB Command Window
-addpath(genpath(pwd));
-savepath;
-
-5. Run the Simulation
-Navigate to the FKM_ADI numerical test folder in the MATLAB file browser.
-Locate the main entry script (The files Example1.m and Example2.m correspond to Example 1 and Example 2 in the manuscript, respectively).
-Run the script by typing its name in the Command Window or pressing F5.
-
-📊 Expected Output
-Once the script finishes execution:
-Figures: MATLAB will generate plots showing the evolution of the system, error analysis, or convergence orders.
-Data: Numerical results may be saved in a .mat file or printed directly to the console.
-(Optional: You can add a screenshot of a result plot here to show users what the output should look like)
-
-📧 Contact
-For any questions regarding the code or the numerical methods, please feel free to:
-Open an Issue on this repository.
-Contact the author at: bbo_yang@163.com
-
-
-
-
-
-
-
-
-
-
-
-
-
-
