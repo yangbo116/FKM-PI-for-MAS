@@ -1,8 +1,7 @@
 ## 📁 Repository Structure
 
 - **`FKM_ADI numerical test/`**: Contains the main numerical experiments and scripts to generate the results presented in the manuscript.
-  - `Example1.m`: Script to reproduce results for Example 1.
-  - `Example2.m`: Script to reproduce results for Example 2.
+
 - **`MASs/`**: A library of utility functions, solvers, and core modules specifically designed for Multi-Agent System dynamics and control.
 - **`LICENSE`**: MIT License.
 - **`README.md`**: Project documentation.
