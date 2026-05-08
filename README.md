@@ -66,7 +66,7 @@ You can run the scripts by:
 If you have any questions regarding the code, numerical methods, or the paper, please feel free to:
 
 - **Open an Issue**: Submit a bug report or question directly on this GitHub repository.
-- **Email the Author**: Send an email to Yang Bo at [bbo_yang@163.com](mailto:bbo_yang@163.com).
+- **Email the Author**: Send an email to [bbo_yang@163.com](mailto:bbo_yang@163.com).
 
 
 
