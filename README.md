@@ -1,8 +1,8 @@
 ## 📁 Repository Structure
 
-- **`FKM_ADI numerical test/`**: Contains the main numerical experiments and scripts to generate the results presented in the manuscript.
+- **`FKM_ADI numerical test/`**: Contains the main numerical experiments and the scripts for reproducing the results in Examples~1 and~2 of the manuscript.
 
-- **`MASs/`**: A library of utility functions, solvers, and core modules specifically designed for Multi-Agent System dynamics and control.
+- **`MASs/`**:Contains the main numerical experiments and the scripts for reproducing the results in Examples~3 and~4 of the manuscript.
 - **`LICENSE`**: MIT License.
 - **`README.md`**: Project documentation.
 
@@ -37,7 +37,7 @@ cd FKM-PI-for-MAS
 addpath(genpath(pwd));
 ```
 
-### 3. Run the Simulation
+### 3. Run the numerical experiments
 
 To reproduce the numerical results, please follow these steps:
 
