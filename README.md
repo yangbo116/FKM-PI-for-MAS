@@ -52,7 +52,7 @@ In the MATLAB file browser, go to the directory:
 - Run `Example2.m` to replicate the results for **Example 2**.
 - Run `example_mas.m` to replicate the results for **Example 3**.
 - Run `example_mas_mechanical.m` to replicate the results for **Example 4**.
-- 
+
 #### ▶️ Step 3 — Execute the code
 
 You can run the scripts by:
