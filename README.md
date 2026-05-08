@@ -1,8 +1,8 @@
 ## 📁 Repository Structure
 
-- **`FKM_ADI numerical test/`**: Contains the main numerical experiments and the scripts for reproducing the results in Examples~1 and~2 of the manuscript.
+- **`FKM_ADI numerical test/`**: Contains the main numerical experiments and the scripts for reproducing the results in Examples 1 and 2 of the manuscript.
 
-- **`MASs/`**:Contains the main numerical experiments and the scripts for reproducing the results in Examples~3 and~4 of the manuscript.
+- **`MASs/`**:Contains the main numerical experiments and the scripts for reproducing the results in Examples 3 and 4 of the manuscript.
 - **`LICENSE`**: MIT License.
 - **`README.md`**: Project documentation.
 
