@@ -28,7 +28,7 @@ The project provides an efficient numerical framework to solve cooperative contr
 
 Follow these steps to replicate the numerical simulations:
 
-### 1. Clone the Repository
+## 1. Clone the Repository
 Open your terminal or command prompt and run:
 ```bash
 git clone https://github.com/yangbo116/FKM-PI-for-MAS.git
