@@ -35,27 +35,27 @@ git clone https://github.com/yangbo116/FKM-PI-for-MAS.git
 cd FKM-PI-for-MAS
 
 ### 2. Open MATLAB
-Launch MATLAB.
-Navigate to the FKM-PI-for-MAS folder.
-Add the folder and its subfolders to the MATLAB path:
-code
-Matlab
-addpath(genpath(pwd));
+* Launch MATLAB.
+   Navigate to the FKM-PI-for-MAS folder.
+   Add the folder and its subfolders to the MATLAB path:
+   code
+   Matlab
+   addpath(genpath(pwd));
 
 #### 3. Run the Simulation
-To reproduce the numerical results, please follow these steps:
-📂 Navigate to the test folder
-In the MATLAB file browser, go to the directory:
-FKM_ADI numerical test/
+* To reproduce the numerical results, please follow these steps:
+   📂 Navigate to the test folder
+   In the MATLAB file browser, go to the directory:
+   FKM_ADI numerical test/
 
 #### 🧪 Select the experiment
-Run Example1.m to replicate the results for Example 1.
-Run Example2.m to replicate the results for Example 2.
+* Run Example1.m to replicate the results for Example 1.
+* Run Example2.m to replicate the results for Example 2.
 
 #### 4. 💻 Execute the code
-You can run the scripts by:
-Typing the filename in the Command Window.
-Or by opening the file and pressing F5.
+   You can run the scripts by:
+   Typing the filename in the Command Window.
+   Or by opening the file and pressing F5.
 
 ### 📧 Contact
 If you have any questions regarding the code, numerical methods, or the paper, please feel free to:
