@@ -16,7 +16,7 @@
 
 ## 🚀 How to Reproduce the Results
 
-Follow these steps to replicate the numerical simulations:
+Follow these steps to replicate the numerical experiments:
 
 ### 1. Clone the Repository
 
