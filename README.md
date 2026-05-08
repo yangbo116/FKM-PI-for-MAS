@@ -31,7 +31,7 @@ cd FKM-PI-for-MAS
 ### 2. Open MATLAB
 
 - Launch MATLAB.
-- Navigate to the `FKM-PI-for-MAS` folder.
+- Navigate to the `FKM-PI-for-MAS` or `MASs` folder.
 - Add the folder and its subfolders to the MATLAB path:
 
 ```matlab
