@@ -45,7 +45,7 @@ To reproduce the numerical results, please follow these steps:
 #### 📂 Step 1 — Navigate to the test folder
 
 In the MATLAB file browser, go to the directory: 
-FKM_ADI numerical test/
+- FKM_ADI numerical test/
 
 #### 🧪 Step 2 — Select the experiment
 
