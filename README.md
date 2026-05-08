@@ -20,7 +20,7 @@ Follow these steps to replicate the numerical experiments:
 
 ### 1. Clone the Repository
 
-You can download **zip file** directly or open your terminal or command prompt and run:
+You can download **FKM-PI-for-MAS-main.zip file** directly or open your terminal or command prompt and run:
 
 ```bash
 git clone https://github.com/yangbo116/FKM-PI-for-MAS.git
