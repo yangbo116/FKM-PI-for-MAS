@@ -46,7 +46,7 @@ To reproduce the numerical results, please follow these steps:
 
 In the MATLAB file browser, go to the directory: 
 - FKM_ADI numerical test/
-- MAs/
+- MASs/
 #### 🧪 Step 2 — Select the experiment
 
 - Run `Example1.m` to replicate the results for **Example 1**.
@@ -56,8 +56,8 @@ In the MATLAB file browser, go to the directory:
 
 You can run the scripts by:
 
-- Typing the filename in the **Command Window**, or
-- Opening the file and pressing **F5**.
+- Entering the script name in the MATLAB Command Window and pressing Enter, or
+- Opening the script file and pressing F5 (or clicking Run).
 
 ---
 
