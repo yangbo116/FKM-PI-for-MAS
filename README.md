@@ -62,6 +62,10 @@ You can run the scripts by:
 
 ---
 
+
+https://github.com/user-attachments/assets/b55bc731-470d-4125-b3c0-4b9753378c73
+
+
 ## 📧 Contact
 
 If you have any questions regarding the code, numerical methods, or the paper, please feel free to:
